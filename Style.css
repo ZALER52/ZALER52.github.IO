@@ -1,4 +1,6 @@
-table{ lang="ru" title="название чего то там"
+<table lang="ru" title="название чего то там">
+</table>
+table{
 border:1px solid black;
 border-collapse:collapse;
 
